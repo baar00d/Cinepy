@@ -36,7 +36,7 @@ for link in show_links:
         movie_list.append(data)
     # print movie_list 
     '''
-    ['PVR Vinayak - Civil Lines', 'Baadshaho', 'Bareilly Ki Barfi', 'A Gentleman: Sundar Susheel Risky', 'Shubh Mangal Saavdhan', 'Annabelle: Creation', 'Toilet: Ek Prem Katha', 'Babumoshai Bandookbaaz']
+    ['John Wick','PVR Vinayak - Civil Lines', 'Baadshaho', 'Bareilly Ki Barfi', 'A Gentleman: Sundar Susheel Risky', 'Shubh Mangal Saavdhan', 'Annabelle: Creation', 'Toilet: Ek Prem Katha', 'Babumoshai Bandookbaaz']
     '''
     database.append(movie_list)
 print (database)    
